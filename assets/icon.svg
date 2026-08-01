@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#101925"/>
+  <path d="M256 54 430 120v118c0 108-69 184-174 220C151 422 82 346 82 238V120Z" fill="#d4a94e"/>
+  <path d="M256 89 396 142v96c0 87-52 148-140 182-88-34-140-95-140-182v-96Z" fill="#23364a"/>
+  <text x="256" y="252" text-anchor="middle" fill="#f7e7b2" font-family="serif" font-size="132" font-weight="700">XVII</text>
+  <path d="M160 300h192M185 334h142" stroke="#d4a94e" stroke-width="14" stroke-linecap="round"/>
+</svg>
